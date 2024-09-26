@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy": "http://localhost:5000/",
+  "proxy": "https://h44lvhqyq7yk3wq4yzooapcy4e0zkeaa.lambda-url.us-east-1.on.aws/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
